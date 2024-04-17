@@ -1,0 +1,12 @@
+@import "./utilities/maps";
+@import "./utilities/mixins";
+
+@import "./base/reset";
+@import "./base/general";
+@import "./base/tipografia";
+
+@import "./layout/header";
+@import "./layout/main";
+@import "./layout/footer"; 
+
+@import "./components/navbar";
