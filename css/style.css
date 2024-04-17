@@ -4,4 +4,15 @@
   box-sizing: border-box;
 }
 
+nav {
+  background-image: linear-gradient(to right bottom, #ecdd19, #dcd31a, #cdc91b, #bebf1b, #b0b51c, #a3aa1b, #97a01b, #8b951a, #7d8717, #707915, #636b12, #565e0f);
+}
+
+.Pregunta {
+  display: grid;
+}
+.Pregunta div img {
+  width: 25rem;
+}
+
 /*# sourceMappingURL=style.css.map */
