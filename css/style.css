@@ -5,14 +5,14 @@
 }
 
 nav {
+  position: sticky;
   background-image: linear-gradient(to right bottom, #ecdd19, #dcd31a, #cdc91b, #bebf1b, #b0b51c, #a3aa1b, #97a01b, #8b951a, #7d8717, #707915, #636b12, #565e0f);
 }
 
-.Pregunta {
-  display: grid;
-}
-.Pregunta div img {
-  width: 25rem;
+.card:hover {
+  transform: scale(1.1);
+  z-index: 1000;
+  filter: grayscale(50%);
 }
 
 /*# sourceMappingURL=style.css.map */
